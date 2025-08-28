@@ -12,7 +12,7 @@ body {
 .post {
   width: 500px;
   border-radius: 4px;
-  box-shadow: 0 4px 10px black;
+  box-shadow: 0 4px 10px silver;
 }
 .box {
   display: flex;
@@ -20,7 +20,7 @@ body {
   margin: 10px 0;
 }
 .box img {
-  width: 40px;
+  width: 50px;
   border-radius: 50%;
 }
 .box input {
@@ -37,8 +37,7 @@ body {
   align-items: center;
   padding: 10px 0px;
 }
-.fa-solid,
-.fa-regular {
+.fa-solid {
   color: plum;
   letter-spacing: 8px;
 }
